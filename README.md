@@ -17,5 +17,4 @@ peace will redirect to another window through which brightness of the system can
 okay will take a screen shot 
 call me opens microsoft teams
 smile opens camera
-rock opens notepad
 thumbs down closes the program
