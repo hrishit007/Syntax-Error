@@ -1,6 +1,6 @@
-Syntax Error
-Gesture Reactor
-Application created for controlling basic features through gesture movement using computer vision.
+# Syntax Error
+## Gesture Reactor
+Application created for controlling basic features through gesture movement using computer vision. 
 The idea was inspired by the growing popularity of AI in daily life.
 After the touchscreen era, we believe the future will be taken over by technologies through which devices are controlled using gestures.
 The motivation for this project was to learn more about openCV and AI/ML.
