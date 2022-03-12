@@ -1,4 +1,4 @@
-# TechVidvan hand Gesture Recognizer
+# The Four Techos hand Gesture Recognizer
 
 # import necessary packages
 
