@@ -11,9 +11,9 @@ thumbs up, thumbs down, peace, fist, rock, live long, okay, stop, call me and sm
 Based on the gestures some functions are executed
 For eq:
 thumbs up will redirect to another window through which volume of the system can be controlled using thumb and index fingers
-        pressing the key 'q' will exit the terminal
+        (pressing the key 'q' will exit the terminal)
 peace will redirect to another window through which brightness of the system can be controlled using thumb and index fingers
-        pressing the key 'q' will exit the terminal
+        (pressing the key 'q' will exit the terminal)
 okay will take a screen shot 
 call me opens microsoft teams
 smile opens camera
