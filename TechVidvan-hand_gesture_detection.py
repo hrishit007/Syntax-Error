@@ -135,7 +135,7 @@ while True:
                 cv2.putText(img,f"{int(volper)}%",(10,40),cv2.FONT_ITALIC,1,(0, 255, 98),3)
                 #tell the volume percentage ,location,font of text,length,rgb color,thickness
             cv2.imshow('Image',img) #Show the video 
-            if cv2.waitKey(1) & 0xff==ord(' '): #By using spacebar delay will stop
+            if cv2.waitKey(1) & 0xff==ord('q'): #By using spacebar delay will stop
                 break
         
         # cap.release()     #stop cam       
@@ -197,9 +197,7 @@ while True:
             os.startfile("C:/Users/Hrishit/Downloads/Teams_windows_x64.exe")
             count+=1
         
-    if(className=="rock"):
-        import os
-        os.system("Notepad")
+    
     # Show the final output
     
     cv2.imshow("Output", frame) 
